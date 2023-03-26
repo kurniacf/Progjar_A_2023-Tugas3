@@ -1,4 +1,4 @@
-# Tugas 2 Pemrograman Jaringan
+# Tugas 3 Pemrograman Jaringan
 - Nama: Kurnia Cahya Febryanto
 - NRP: 5025201073
 - Kelas: Pemrograman Jaringan A
@@ -6,9 +6,10 @@
 ## Daftar Isi
 - [Deskripsi](#deskripsi)
 - [Implementasi Client dan Server](#implementasi-client-dan-server)
+- [Kesimpulan](#kesimpulan)
 
 ## Deskripsi
-Buatlah program client untuk Tugas 2 dengan mengimplementasikan ketentuan di tugas 2 dengan metode
+Buatlah program client untuk Tugas 3 dengan mengimplementasikan ketentuan di tugas 2 dengan metode
 ### 1. Thread
 - Membuat file `client_thread.py` untuk implementasi thread dalam client.
 - Import library yang diperlukan seperti sys, socket, logging, dan threading. </br>
